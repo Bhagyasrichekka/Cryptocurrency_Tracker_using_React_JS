@@ -1,0 +1,44 @@
+/* Write your CSS code here */
+/* Write your CSS here */
+
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  font-family: 'Roboto';
+  height: 150vh;
+}
+.usd-euro {
+  display: flex;
+  width: 30%;
+  justify-content: space-between;
+}
+.item-type {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: 500;
+  font-size: 20px;
+  background-color: #092e33;
+}
+.heading {
+  color: #00e7ff;
+  font-size: 50px;
+  font-weight: 500;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.table {
+  border: 2px solid #00e7ff;
+  border-radius: 6px;
+  padding: 10px;
+  color: white;
+  width: 60vw;
+}
